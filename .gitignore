@@ -1,0 +1,6 @@
+downloads/
+.tmp/
+library.json
+__pycache__/
+*.pyc
+.venv/
